@@ -2,6 +2,6 @@
 
 Alunos:
 
-David Leite
-João Gabriel
-Pedro Alberto
+David Leite,
+João Gabriel,
+Pedro Alberto,
